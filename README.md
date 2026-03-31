@@ -20,7 +20,5 @@
 
 *Criado em: 31/03/2026
 
-## Colaboradores
 
-- Felipe Correia TI
 
