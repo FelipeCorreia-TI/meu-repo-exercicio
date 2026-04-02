@@ -20,5 +20,5 @@
 
 *Criado em: 31/03/2026*
 
-- Yago Montouro
+- Felipe Correia - TI
 
